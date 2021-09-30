@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace WInLose
+namespace WinLose
 {
     [CreateAssetMenu(fileName = "winLoseChannel", menuName = "Channels/Winlose Channel", order = 0)]
     public class WinLoseChannel : ScriptableObject

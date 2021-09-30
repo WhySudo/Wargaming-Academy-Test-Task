@@ -1,6 +1,6 @@
 ﻿using UnityEngine.Events;
 
-namespace WInLose
+namespace WinLose
 {
     public class WinEvent : UnityEvent
     {

@@ -5,7 +5,7 @@ using Map.Events;
 using Map.Zones;
 using UnityEngine;
 
-namespace WInLose
+namespace WinLose
 {
     public class WinChecker : MonoBehaviour
     {

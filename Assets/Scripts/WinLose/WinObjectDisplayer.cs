@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace WInLose
+namespace WinLose
 {
     public class WinObjectDisplayer : MonoBehaviour
     {
